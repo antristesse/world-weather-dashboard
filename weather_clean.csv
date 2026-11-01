@@ -1,0 +1,144 @@
+city,country,condition,temperature_f,wind_mph,local_time,scraped_at
+Accra,Ghana,Passing clouds. Warm,82,9,Sun 7:25 pm,2026-11-01 14:25:27
+Addis Ababa,Ethiopia,Passing clouds. Refreshingly cool,61,8,Sun 10:25 pm,2026-11-01 14:25:27
+Adelaide,Australia,Cool,67,1,Mon 5:55 am,2026-11-01 14:25:27
+Algiers,Algeria,Passing clouds. Mild,69,0,Sun 8:25 pm,2026-11-01 14:25:27
+Almaty,Kazakhstan,Passing clouds. Chilly,37,1,Mon 12:25 am,2026-11-01 14:25:27
+Amman,Jordan,Clear. Mild,64,3,Sun 10:25 pm,2026-11-01 14:25:27
+Amsterdam,Netherlands,Partly cloudy. Cool,50,1,Sun 8:25 pm,2026-11-01 14:25:27
+Anadyr,Russia,Clear. Frigid,3,7,Mon 7:25 am,2026-11-01 14:25:27
+Anchorage,USA,Mostly cloudy. Chilly,35,0,Sun 10:25 am,2026-11-01 14:25:27
+Ankara,Turkey,Passing clouds. Cool,50,3,Sun 10:25 pm,2026-11-01 14:25:27
+Antananarivo,Madagascar,Passing clouds. Mild,64,9,Sun 10:25 pm,2026-11-01 14:25:27
+Asuncion,Paraguay,Sprinkles. Scattered clouds,81,12,Sun 4:25 pm,2026-11-01 14:25:27
+Athens,Greece,Mild,64,,Sun 9:25 pm,2026-11-01 14:25:27
+Atlanta,USA,More clouds than sun. Mild,64,9,Sun 2:25 pm,2026-11-01 14:25:27
+Auckland,New Zealand,Mostly cloudy. Cool,59,9,Mon 8:25 am,2026-11-01 14:25:27
+Baghdad,Iraq,Passing clouds. Warm,78,2,Sun 10:25 pm,2026-11-01 14:25:27
+Bangkok,Thailand,Passing clouds. Warm,79,0,Mon 2:25 am,2026-11-01 14:25:27
+Barcelona,Spain,Passing clouds. Mild,66,14,Sun 8:25 pm,2026-11-01 14:25:27
+Beijing,China,Clear. Chilly,34,1,Mon 3:25 am,2026-11-01 14:25:27
+Beirut,Lebanon,Passing clouds. Mild,67,0,Sun 9:25 pm,2026-11-01 14:25:27
+Belgrade,Serbia,Partly cloudy. Cool,50,8,Sun 8:25 pm,2026-11-01 14:25:27
+Bengaluru,India,Passing clouds. Mild,73,7,Mon 12:55 am,2026-11-01 14:25:27
+Berlin,Germany,Overcast. Cool,46,3,Sun 8:25 pm,2026-11-01 14:25:27
+Bogota,Colombia,Scattered showers. Partly sunny,64,8,Sun 2:25 pm,2026-11-01 14:25:27
+Boston,USA,Sunny. Refreshingly cool,58,10,Sun 2:25 pm,2026-11-01 14:25:27
+Brasilia,Brazil,Light rain. Partly sunny,75,12,Sun 4:25 pm,2026-11-01 14:25:27
+Brisbane,Australia,Cool,64,1,Mon 5:25 am,2026-11-01 14:25:27
+Brussels,Belgium,Passing clouds. Cool,48,3,Sun 8:25 pm,2026-11-01 14:25:27
+Bucharest,Romania,Overcast. Cool,50,13,Sun 9:25 pm,2026-11-01 14:25:27
+Budapest,Hungary,Passing clouds. Cool,52,5,Sun 8:25 pm,2026-11-01 14:25:27
+Buenos Aires,Argentina,Scattered clouds. Mild,72,6,Sun 4:25 pm,2026-11-01 14:25:27
+Cairo,Egypt,Clear. Mild,75,12,Sun 9:25 pm,2026-11-01 14:25:27
+Calgary,Canada,Mostly cloudy. Quite cool,41,0,Sun 1:25 pm,2026-11-01 14:25:27
+Canberra,Australia,Overcast. Cool,50,2,Mon 6:25 am,2026-11-01 14:25:27
+Cape Town,South Africa,Passing clouds. Mild,63,20,Sun 9:25 pm,2026-11-01 14:25:27
+Caracas,Venezuela,Passing clouds. Hot,90,7,Sun 3:25 pm,2026-11-01 14:25:27
+Casablanca,Morocco,Clear. Mild,66,2,Sun 7:25 pm,2026-11-01 14:25:27
+Chicago,USA,Light rain. More clouds than sun,62,5,Sun 1:25 pm,2026-11-01 14:25:27
+Copenhagen,Denmark,Passing clouds. Cool,48,7,Sun 8:25 pm,2026-11-01 14:25:27
+Dallas,USA,Partly sunny. Mild,75,12,Sun 1:25 pm,2026-11-01 14:25:27
+Dar es Salaam,Tanzania,Passing clouds. Warm,81,10,Sun 10:25 pm,2026-11-01 14:25:27
+Darwin,Australia,Clear. Warm,81,5,Mon 4:55 am,2026-11-01 14:25:27
+Denver,USA,Scattered clouds. Cool,55,7,Sun 12:25 pm,2026-11-01 14:25:27
+Detroit,USA,Sunny. Mild,65,5,Sun 2:25 pm,2026-11-01 14:25:27
+Dhaka,Bangladesh,Passing clouds. Warm,81,0,Mon 1:25 am,2026-11-01 14:25:27
+Doha,Qatar,Clear. Warm,86,2,Sun 10:25 pm,2026-11-01 14:25:27
+Dubai,United Arab Emirates,Passing clouds. Warm,88,6,Sun 11:25 pm,2026-11-01 14:25:27
+Dublin,Ireland,Passing clouds. Quite cool,45,8,Sun 7:25 pm,2026-11-01 14:25:27
+Edmonton,Canada,Ice fog. Cold,25,2,Sun 1:25 pm,2026-11-01 14:25:27
+Frankfurt,Germany,Passing clouds. Cool,48,10,Sun 8:25 pm,2026-11-01 14:25:27
+Guatemala City,Guatemala,Scattered clouds. Warm,77,16,Sun 1:25 pm,2026-11-01 14:25:27
+Halifax,Canada,Scattered clouds. Quite cool,45,16,Sun 3:25 pm,2026-11-01 14:25:27
+Hanoi,Vietnam,Passing clouds. Warm,81,6,Mon 2:25 am,2026-11-01 14:25:27
+Harare,Zimbabwe,Clear. Mild,75,13,Sun 9:25 pm,2026-11-01 14:25:27
+Havana,Cuba,Scattered clouds. Warm,88,9,Sun 3:25 pm,2026-11-01 14:25:27
+Helsinki,Finland,Passing clouds. Quite cool,45,8,Sun 9:25 pm,2026-11-01 14:25:27
+Hong Kong,Hong Kong,Passing clouds. Warm,79,7,Mon 3:25 am,2026-11-01 14:25:27
+Honolulu,USA,Broken clouds. Warm,79,3,Sun 9:25 am,2026-11-01 14:25:27
+Houston,USA,Scattered clouds. Warm,85,7,Sun 1:25 pm,2026-11-01 14:25:27
+Indianapolis,USA,Overcast. Mild,67,11,Sun 2:25 pm,2026-11-01 14:25:27
+Islamabad,Pakistan,Passing clouds. Mild,65,9,Mon 12:25 am,2026-11-01 14:25:27
+Istanbul,Turkey,Passing clouds. Cool,61,13,Sun 10:25 pm,2026-11-01 14:25:27
+Jakarta,Indonesia,Overcast. Warm,79,4,Mon 2:25 am,2026-11-01 14:25:27
+Jerusalem,Israel,Cool,65,0,Sun 9:25 pm,2026-11-01 14:25:27
+Johannesburg,South Africa,Passing clouds. Mild,75,40,Sun 9:25 pm,2026-11-01 14:25:27
+Kabul,Afghanistan,Scattered clouds. Mild,66,4,Sun 11:55 pm,2026-11-01 14:25:27
+Karachi,Pakistan,Haze. Warm,79,5,Mon 12:25 am,2026-11-01 14:25:27
+Kathmandu,Nepal,Partly cloudy. Mild,63,3,Mon 1:10 am,2026-11-01 14:25:27
+Khartoum,Sudan,Clear. Pleasantly warm,81,6,Sun 9:25 pm,2026-11-01 14:25:27
+Kingston,Jamaica,Hot,91,22,Sun 2:25 pm,2026-11-01 14:25:27
+Kinshasa,Congo Dem. Rep.,Scattered clouds. Mild,75,,Sun 8:25 pm,2026-11-01 14:25:27
+Kiritimati,Kiribati,Scattered clouds. Warm,86,7,Mon 9:25 am,2026-11-01 14:25:27
+Kolkata,India,Passing clouds. Warm,81,0,Mon 12:55 am,2026-11-01 14:25:27
+Kuala Lumpur,Malaysia,Passing clouds. Warm,79,3,Mon 3:25 am,2026-11-01 14:25:27
+Kuwait City,Kuwait,Thunderstorms. Overcast,81,9,Sun 10:25 pm,2026-11-01 14:25:27
+Kyiv,Ukraine,Overcast. Cool,45,2,Sun 9:25 pm,2026-11-01 14:25:27
+La Paz,Bolivia,Scattered clouds. Mild,64,20,Sun 3:25 pm,2026-11-01 14:25:27
+Lagos,Nigeria,Passing clouds. Warm,84,5,Sun 8:25 pm,2026-11-01 14:25:27
+Lahore,Pakistan,Clear. Mild,72,0,Mon 12:25 am,2026-11-01 14:25:27
+Las Vegas,USA,Partly sunny. Mild,64,29,Sun 11:25 am,2026-11-01 14:25:27
+Lima,Peru,Partly sunny. Warm,81,25,Sun 2:25 pm,2026-11-01 14:25:27
+Lisbon,Portugal,Clear. Mild,70,6,Sun 7:25 pm,2026-11-01 14:25:27
+London,United Kingdom,Overcast. Cool,50,7,Sun 7:25 pm,2026-11-01 14:25:27
+Los Angeles,USA,Passing clouds. Mild,70,16,Sun 11:25 am,2026-11-01 14:25:27
+Madrid,Spain,Clear. Refreshingly cool,55,0,Sun 8:25 pm,2026-11-01 14:25:27
+Managua,Nicaragua,Passing clouds. Extremely hot,93,9,Sun 1:25 pm,2026-11-01 14:25:27
+Manila,Philippines,Passing clouds. Warm,79,0,Mon 3:25 am,2026-11-01 14:25:27
+Melbourne,Australia,Clear. Cool,48,6,Mon 6:25 am,2026-11-01 14:25:27
+Mexico City,Mexico,Scattered clouds. Mild,70,8,Sun 1:25 pm,2026-11-01 14:25:27
+Miami,USA,Thunderstorms. Mostly cloudy,74,3,Sun 2:25 pm,2026-11-01 14:25:27
+Minneapolis,USA,Scattered clouds. Mild,65,18,Sun 1:25 pm,2026-11-01 14:25:27
+Minsk,Belarus,Passing clouds. Quite cool,41,6,Sun 10:25 pm,2026-11-01 14:25:27
+Montevideo,Uruguay,Thunderstorms. Broken clouds,59,6,Sun 4:25 pm,2026-11-01 14:25:27
+Montréal,Canada,Passing clouds. Refreshingly cool,57,12,Sun 2:25 pm,2026-11-01 14:25:27
+Moscow,Russia,Fog. Chilly,35,4,Sun 10:25 pm,2026-11-01 14:25:27
+Mumbai,India,Passing clouds. Warm,86,0,Mon 12:55 am,2026-11-01 14:25:27
+Nairobi,Kenya,Passing clouds. Mild,70,12,Sun 10:25 pm,2026-11-01 14:25:27
+Nassau,Bahamas,Thunderstorms. More clouds than sun,81,7,Sun 2:25 pm,2026-11-01 14:25:27
+New Delhi,India,Fog. Mild,67,0,Mon 12:55 am,2026-11-01 14:25:27
+New Orleans,USA,Overcast. Mild,75,16,Sun 1:25 pm,2026-11-01 14:25:27
+New York,USA,Sunny. Refreshingly cool,58,5,Sun 2:25 pm,2026-11-01 14:25:27
+Oslo,Norway,Passing clouds. Quite cool,43,9,Sun 8:25 pm,2026-11-01 14:25:27
+Ottawa,Canada,Sunny. Refreshingly cool,61,14,Sun 2:25 pm,2026-11-01 14:25:27
+Paris,France,Passing clouds. Cool,48,8,Sun 8:25 pm,2026-11-01 14:25:27
+Perth,Australia,Overcast. Mild,63,6,Mon 3:25 am,2026-11-01 14:25:27
+Philadelphia,USA,Partly sunny. Refreshingly cool,59,5,Sun 2:25 pm,2026-11-01 14:25:27
+Phoenix,USA,Light rain. Mostly cloudy,68,10,Sun 12:25 pm,2026-11-01 14:25:27
+Prague,Czechia,Overcast. Quite cool,43,6,Sun 8:25 pm,2026-11-01 14:25:27
+Reykjavik,Iceland,Mostly cloudy. Cool,48,12,Sun 7:25 pm,2026-11-01 14:25:27
+Rio de Janeiro,Brazil,Partly sunny. Warm,77,10,Sun 4:25 pm,2026-11-01 14:25:27
+Riyadh,Saudi Arabia,Clear. Pleasantly warm,82,3,Sun 10:25 pm,2026-11-01 14:25:27
+Rome,Italy,Passing clouds. Cool,55,5,Sun 8:25 pm,2026-11-01 14:25:27
+Salt Lake City,USA,Light rain. Mostly cloudy,50,7,Sun 12:25 pm,2026-11-01 14:25:27
+San Francisco,USA,Passing clouds. Cool,59,7,Sun 11:25 am,2026-11-01 14:25:27
+San Juan,Puerto Rico,Scattered clouds. Hot,88,17,Sun 3:25 pm,2026-11-01 14:25:27
+San Salvador,El Salvador,Passing clouds. Warm,86,9,Sun 1:25 pm,2026-11-01 14:25:27
+Santiago,Chile,Passing clouds. Mild,72,15,Sun 4:25 pm,2026-11-01 14:25:27
+Santo Domingo,Dominican Republic,Partly sunny. Hot,90,4,Sun 3:25 pm,2026-11-01 14:25:27
+São Paulo,Brazil,Scattered clouds. Mild,72,15,Sun 4:25 pm,2026-11-01 14:25:27
+Seattle,USA,Overcast. Cool,48,6,Sun 11:25 am,2026-11-01 14:25:27
+Seoul,South Korea,Passing clouds. Cool,50,6,Mon 4:25 am,2026-11-01 14:25:27
+Shanghai,China,Light rain. Fog,59,8,Mon 3:25 am,2026-11-01 14:25:27
+Singapore,Singapore,Passing clouds. Warm,81,1,Mon 3:25 am,2026-11-01 14:25:27
+Sofia,Bulgaria,Drizzle. Overcast,49,2,Sun 9:25 pm,2026-11-01 14:25:27
+St. John's,Canada,Overcast. Chilly,32,25,Sun 3:55 pm,2026-11-01 14:25:27
+Stockholm,Sweden,Fog. Quite cool,45,6,Sun 8:25 pm,2026-11-01 14:25:27
+Suva,Fiji,Partly sunny. Mild,74,13,Mon 7:25 am,2026-11-01 14:25:27
+Sydney,Australia,Passing clouds. Mild,66,5,Mon 6:25 am,2026-11-01 14:25:27
+Taipei,Taiwan,Passing clouds. Mild,73,3,Mon 3:25 am,2026-11-01 14:25:27
+Tallinn,Estonia,Overcast. Quite cool,45,7,Sun 9:25 pm,2026-11-01 14:25:27
+Tashkent,Uzbekistan,Fog. Cool,52,2,Mon 12:25 am,2026-11-01 14:25:27
+Tegucigalpa,Honduras,Scattered clouds. Warm,81,18,Sun 1:25 pm,2026-11-01 14:25:27
+Tehran,Iran,Sprinkles. Partly cloudy,64,7,Sun 10:55 pm,2026-11-01 14:25:27
+Tokyo,Japan,Overcast. Cool,59,9,Mon 4:25 am,2026-11-01 14:25:27
+Toronto,Canada,Partly sunny. Refreshingly cool,61,6,Sun 2:25 pm,2026-11-01 14:25:27
+Vancouver,Canada,Passing clouds. Cool,50,5,Sun 12:25 pm,2026-11-01 14:25:27
+Vienna,Austria,Clear. Quite cool,43,9,Sun 8:25 pm,2026-11-01 14:25:27
+Warsaw,Poland,Passing clouds. Cool,46,6,Sun 8:25 pm,2026-11-01 14:25:27
+Washington DC,USA,Partly sunny. Mild,65,3,Sun 2:25 pm,2026-11-01 14:25:27
+Winnipeg,Canada,Cool,56,1,Sun 2:25 pm,2026-11-01 14:25:27
+Yangon,Myanmar,Passing clouds. Warm,81,2,Mon 1:55 am,2026-11-01 14:25:27
+Zagreb,Croatia,Light rain. Overcast,45,16,Sun 8:25 pm,2026-11-01 14:25:27
+Zürich,Switzerland,Passing clouds. Quite cool,45,12,Sun 8:25 pm,2026-11-01 14:25:27
